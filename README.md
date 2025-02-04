@@ -9,12 +9,12 @@
 
 ## Languages and Tools 
 ### Languages
-<br>
+
 ![Embedded_C](https://img.shields.io/badge/C-Embedded-blue)&nbsp;
 ![C++](https://img.shields.io/badge/C-%2B%2B-blue)&nbsp;
 ![Matlab](https://img.shields.io/badge/Matlab-orange)&nbsp;
 
-<hr>
+
 
 
 
