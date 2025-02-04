@@ -10,9 +10,9 @@
 ## Languages and Tools 
 ### Languages
 <br>
-[![Embedded_C](https://img.shields.io/badge/C-Embedded-blue)](https://img.shields.io/badge/C-Embedded-blue)
-[![C++](https://img.shields.io/badge/C-%2B%2B-blue)](https://img.shields.io/badge/C-%2B%2B-blue)
-[![Matlab](https://img.shields.io/badge/Matlab-orange)](https://img.shields.io/badge/Matlab-orange)
+![Embedded_C](https://img.shields.io/badge/C-Embedded-blue)&nbsp;
+![C++](https://img.shields.io/badge/C-%2B%2B-blue)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-orange)&nbsp;
 
 <hr>
 
