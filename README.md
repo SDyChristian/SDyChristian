@@ -36,7 +36,7 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 ## New section
 
      
-    </td>
+</td>
   </tr>
 </table>
 
