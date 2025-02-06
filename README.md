@@ -9,11 +9,18 @@
 
 Hi, I'm Christian Trejo, an embedded software engineer with two years of experience in the automotive industry, specializing in AUTOSAR. I also have six years of R&D experience in robotics and control, fields that I’m truly passionate about. I share my knowledge on these topics through my YouTube channel, where I post educational content. Here, you'll find repositories related to the projects I've worked on throughout my career.
 
+<style>
 table {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
 }
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+</style>
 
 <hr>
 <table>
