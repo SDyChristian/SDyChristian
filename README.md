@@ -9,15 +9,10 @@
 
 Hi, I'm Christian Trejo, an embedded software engineer with two years of experience in the automotive industry, specializing in AUTOSAR. I also have six years of R&D experience in robotics and control, fields that I’m truly passionate about. I share my knowledge on these topics through my YouTube channel, where I post educational content. Here, you'll find repositories related to the projects I've worked on throughout my career.
 
-## Languages and Tools 
-### Languages
-
-
-
 
 <table width="100%" >
-<tr>
-<td width="60%">
+ <tr>
+  <td width="60%">
      
 ## Languages and Tools 
 
@@ -28,7 +23,7 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 ![Matlab](https://img.shields.io/badge/Matlab-orange)&nbsp;
 
 
-### Communication Protocols 
+### Communication Protocols
      
 </td>
 <td>
@@ -39,6 +34,8 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 </td>
 </tr>
 </table>
+
+</br>
 
 
 
