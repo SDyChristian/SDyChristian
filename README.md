@@ -12,11 +12,33 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 ## Languages and Tools 
 ### Languages
 
+
+
+
+<table width="100%" >
+  <tr>
+    <td width="60%">
+     
+## Languages and Tools 
+
+### Languages
+
 ![Embedded_C](https://img.shields.io/badge/C-Embedded-blue)&nbsp;
 ![C++](https://img.shields.io/badge/C-%2B%2B-blue)&nbsp;
 ![Matlab](https://img.shields.io/badge/Matlab-orange)&nbsp;
 
+
 ### Communication Protocols 
+     
+</td>
+    <td>
+  
+## New section
+
+     
+    </td>
+  </tr>
+</table>
 
 
 
