@@ -16,8 +16,8 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 
 
 <table width="100%" >
-  <tr>
-    <td width="60%">
+<tr>
+<td width="60%">
      
 ## Languages and Tools 
 
@@ -31,13 +31,13 @@ Hi, I'm Christian Trejo, an embedded software engineer with two years of experie
 ### Communication Protocols 
      
 </td>
-    <td>
+<td>
   
 ## New section
 
      
 </td>
-  </tr>
+</tr>
 </table>
 
 
