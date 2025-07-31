@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi, I'm Christian Trejo, an embedded software engineer with two years of experience in the automotive industry, specializing in AUTOSAR. I also have six years of R&D experience in robotics and control, fields that I’m truly passionate about. I share my knowledge on these topics through my YouTube channel, where I post educational content. Here, you'll find repositories related to the projects I've worked on throughout my career.
+Hi, I'm Christian Trejo. I have six years of R&D experience in robotics and non-linear control, areas in which I’m deeply involved and passionate. I also have two years of experience as an embedded software engineer in the automotive industry, with a focus on AUTOSAR. I share educational content on these topics through my YouTube channel. Here, you'll find repositories related to some projects I’ve developed throughout my career.
 
 ## Skills and Tools
 
