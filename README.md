@@ -1,7 +1,7 @@
 # <h1 align="center"> Welcome! </h1>
 
 [![Youtube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaZshs4Uoqf6Ysq35iyOSew?style=for-the-badge)](https://www.youtube.com/@SDyChristian)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christian-alejandro-trejo-ramos-49b110113/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christian-trejosdyc/)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DSdyc%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/Sdyc)
 
 ## About me
